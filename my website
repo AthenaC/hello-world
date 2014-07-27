@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+  <title>Anna Whatever</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://www.fxcovers.com/covers/facebook_cover_photo_really_funny_text-851x315.jpg");
+      background-size: cover;
+      background-position: center;
+      color: orange;
+      font-family: helvetica;
+      
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    body a {
+      border: 0;
+      padding: 10px;
+      background: red;
+      color: blue;
+    }
+    footer a {
+      border: 0;
+      padding: 5px;
+      margin: 10;
+      background: red;
+      color: blue;
+    }
+  </style>
+</head>
+
+<body>
+  <p>I'm Athena and this is my simple website.</p>
+  <input type="email" placeholder="Just Submit!!!! --->">
+  <a href="http://blogs.longwood.edu/jasontsai/files/2014/07/nexusae0_personal_trollface_hd.png">Submit</a>
+</body>
+
+<footer>
+  <a href="http://aamichaelis.tumblr.com/">My Tumblr</a>
+  <a href="http://athenac17.tumblr.com/">Another Tumblr</a>
+</footer>
+
